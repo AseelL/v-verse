@@ -3,7 +3,6 @@ import * as React from "react";
 
 import {
     Typography,
-    Space,
   } from "antd";
   const { Title } = Typography;
 

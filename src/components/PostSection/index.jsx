@@ -4,6 +4,9 @@ import {
     Layout,
   } from "antd";
 const PostingSection = () => {
-    return <Layout></Layout>;
+    return <Layout>
+
+      {/* WIP */}
+    </Layout>;
   };
   export default PostingSection
